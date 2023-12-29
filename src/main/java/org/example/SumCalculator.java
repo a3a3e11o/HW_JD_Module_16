@@ -1,7 +1,5 @@
 package org.example;
 
-import java.util.Date;
-
 public class SumCalculator {
     public int sum(int n) {
         if (n <= 0) {
